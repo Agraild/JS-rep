@@ -9,3 +9,5 @@ function get_freq(n){
 
 
 console.log("A4", get_freq(-9));
+console.log(123);
+
