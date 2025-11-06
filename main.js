@@ -24,6 +24,8 @@ console.log("A", n, get_freq(-0));
 console.log("H", n, get_freq(2));
 
 console.log(123);
+
+console.log(something);
     
 }
 
